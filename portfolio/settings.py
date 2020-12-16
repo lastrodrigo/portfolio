@@ -25,7 +25,7 @@ SECRET_KEY = 'k!=6bx)g3amzt#)4=idls)w=k_ii85*9tow$in#xp5dj=zvivk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lastrodrigo.pythonanywhere.com']
 
 
 # Application definition
